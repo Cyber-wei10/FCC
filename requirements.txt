@@ -1,0 +1,15 @@
+requests
+beautifulsoup4
+nvdlib
+langchain
+langchain-openai
+langchain-community
+pydantic
+openpyxl
+pandas
+urllib3
+json
+re
+subprocess
+typing
+pyyaml
