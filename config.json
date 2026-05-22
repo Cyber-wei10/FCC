@@ -1,0 +1,8 @@
+{
+  "api_key_file": "./api_key.json",
+  "base_url": "https://api.openai.com/v1",
+  "model": "xxx",
+  "max_threads": 4,
+  "source_code_url": "https://mirrors.tuna.tsinghua.edu.cn/kernel/v{version_part}.x/linux-{version}.tar.xz",
+  "nvdlib_api_key": "xxx"
+}

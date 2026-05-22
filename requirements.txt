@@ -8,8 +8,3 @@ pydantic
 openpyxl
 pandas
 urllib3
-json
-re
-subprocess
-typing
-pyyaml
