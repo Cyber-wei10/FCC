@@ -6,7 +6,7 @@ Inferring 1-Minimal Trigger Configurations for Assessing Linux Kernel CVE Trigge
 
 This repo offers FCC, an LLM-powered framework that links vulnerability cues to build-system symbols to mine candidates, completes implicit prerequisites under olddefconfig feedback to avoid silent rollback, and performs runtime-validated mini mization guided by the inferred dependency topology. 
 
-![overview](./images/overview.png)
+![overview](./images/overview.png?20260724)
 
 ## Setup
 
